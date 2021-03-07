@@ -8,14 +8,14 @@ function makeWords() {
 			text: "css3",
 			weight: 12.5
 		}, {
-			text: "javascript",
-			weight: 13
-		}, {
-			text: "PHP",
-			weight: 12
-		}, {
 			text: "MySQL",
 			weight: 10
+		}, {
+			text: "PHP",
+			weight: 11
+		}, {
+			text: "JS",
+			weight: 13
 		}, {
 			text: "Laravel",
 			weight: 10
