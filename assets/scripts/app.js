@@ -12,13 +12,13 @@ function makeWords() {
 			weight: 10
 		}, {
 			text: "PHP",
-			weight: 11
+			weight: 10
 		}, {
-			text: "JS",
-			weight: 13
+			text: "JavaScript",
+			weight: 12
 		}, {
 			text: "Laravel",
-			weight: 10
+			weight: 9
 		}, {
 			text: "WordPress",
 			weight: 10
@@ -29,31 +29,31 @@ function makeWords() {
 			text: "Divi",
 			weight: 9
 		}, {
-			text: "web development",
-			weight: 10
+			text: "Java",
+			weight: 13
 		}, {
 			text: "BeTheme",
 			weight: 8.3
 		}, {
-			text: "Programming",
-			weight: 8.1
+			text: "AEM 6.5",
+			weight: 10
 		}, {
 			text: "Materialize",
 			weight: 7.8
 		}, {
-			text: "Site Optimization",
+			text: "SEO",
 			weight: 8.5
 		}, {
-			text: "Github",
-			weight: 7
+			text: "Github/Bitbucket",
+			weight: 10
 		}, {
-			text: "Nutcache",
-			weight: 7
+			text: "Grafana",
+			weight: 10
 		}, {
-			text: "Vicidial",
-			weight: 8
+			text: "Jira",
+			weight: 10
 		}, {
-			text: "responsive design",
+			text: "Prometheus",
 			weight: 10
 		}, {
 			text: "bootstrap",
